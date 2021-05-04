@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+*{
+    font-family: 'Nunito', sans-serif;
+    color: #fff;
+    background-color: black;
+    font-size: xx-large;
+}
+.flare {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #f12711, #f5af19);
+}
+
+.vanusa {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #da4453, #89216b);
+}
+
+.sublime-light {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #fc5c7d, #6a82fb);
+}
+
+.bighead {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #c94b4b, #4b134f);
+}
+
+.velvet-sun {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #e1eec3, #f05053);
+}
+
+.argon {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #03001e, #7303c0, #ec38bc, #fdeff9);
+}
+
+.celestial {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #c33764, #1d2671);
+}
+
+.relay {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #3a1c71, #d76d77, #ffaf7b);
+}
+
+.crystal-clear {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #159957, #155799);
+}
+
+.ibiza-sunset {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #ee0979, #ff6a00);
+}
+
+.fresh-turboscent {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #f1f2b5, #135058);
+}
+
+.cheer-up-emo-kid {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #556270, #ff6b6b);
+}
+
+.starfall {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #f0c27b, #4b1248);
+}
+
+.nelson {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #f2709c, #ff9472);
+}
+
+.forever-lost {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #5d4157, #a8caba);
+}
+
+.blurry-beach {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #d53369, #cbad6d);
+}
+
+.influenza {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #c04848, #480048);
+}
+
+.jshine {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+}
+
+.calm-darya {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #5f2c82, #49a09d);
+}
+
+.titanium {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #283048, #859398);
+}
+
+.pinky {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #dd5e89, #f7bb97);
+}
+
+.purple-paradise {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #1d2b64, #f8cdda);
+}
+
+.horizon {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #003973, #e5e5be);
+}
+
+.noon-to-dusk {
+  height: 100px;
+  width: cover;
+  background: linear-gradient(to right, #ff6e7f, #bfe9ff);
+}
+

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>height-transition</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="trigger">
+    Hover me to see a height transition.
+    <div class="el">rudmer-i0</div>
+  </div>
+  <script>
+    let el = document.querySelector('.el');
+    let height = el.scrollHeight;
+    el.style.setProperty('--max-height', height + 'px');
+  </script>
+</body>
+
+</html>
